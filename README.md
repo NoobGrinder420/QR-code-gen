@@ -8,7 +8,7 @@ Make sure you have the following libraries installed:
 $ pip install pillow
 $ pip install qrcode
 ```
-#How to Use
+## How to Use
 Run the following command to generate a QR code:
 
 ```bash
