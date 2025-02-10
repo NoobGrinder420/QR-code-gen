@@ -17,7 +17,7 @@ $ python3 path/to/main.py parameters
 Parameters
 Assumes that main.py is in your working directory.
 
--name: Input the name of the QR code file.
+```-name```: Input the name of the QR code file.
 
 Example:
 ```bash
@@ -26,7 +26,9 @@ $ python3 main.py -name "sigma"
 This will store your QR code filename as sigma_qr.png.
 
 Default value: sample (filename will be sample_qr.png).
--url: Input the URL for the QR code.
+
+
+```-url```: Input the URL for the QR code.
 
 Example:
 ```bash
@@ -35,7 +37,9 @@ $ python3 main.py -name "sigma" -url "https://www.youtube.com/"
 This will generate a QR code that links to YouTube.
 
 Default value: "https://www.youtube.com/".
--path: Input the path where you want to store the QR code file.
+
+
+```-path```: Input the path where you want to store the QR code file.
 
 Example:
 ```bash
