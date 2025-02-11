@@ -1,4 +1,4 @@
-# QR Code generator
+# QR code generator
 Creates a QR code from the terminal.
 
 ## Prerequisites
