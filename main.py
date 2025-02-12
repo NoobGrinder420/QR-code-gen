@@ -3,7 +3,7 @@ import os
 import qrcode
 url = "https://www.youtube.com/watch?v=WR1ydijTx5E"
 name = "qr"
-directory = "./" #dir to save file at
+path = "./" #dir to save file at
 
 for i, n in enumerate(sys.argv[1::]):
     if n == "-name":
