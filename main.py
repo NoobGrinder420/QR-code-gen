@@ -1,7 +1,7 @@
 import sys
 import os
 import qrcode
-url = "https://www.youtube.com/watch?v=WR1ydijTx5E"
+url = "https://www.youtube.com"
 name = "qr"
 path = "./" #dir to save file at
 
